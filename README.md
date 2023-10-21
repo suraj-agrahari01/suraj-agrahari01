@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Suraj Agrahari</h1>
 <h3 align="center">Computer Vision Research Engineer @crimsontech|| IT manager @motor home Nepal || Advanced Electronics Author|| Electronics , communication &Information Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/150de2_a9eb02ba122448e981e50392dc853f6a~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-agrahari01&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-agrahari01" /> </p>
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/150de2_a9eb02ba122448e981e50392dc853f6a~mv2.gif">
 
 - 🌱 I’m currently learning **Data Analysis**
 
@@ -15,13 +14,13 @@
 
 - 📫 How to reach me **surajagrahari330@gmail.com**
 
-- ⚡ Fun fact **My friend know me as multi**
+- ⚡ Fun fact **My friend know mw as multi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/surajag94005146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajag94005146" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suraj-agrahari-1622aa18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-agrahari-1622aa18a" height="30" width="40" /></a>
-<a href="https://www.facebook.com/suraj.agrahari.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suraj.agrahari.01" height="30" width="40" /></a>
+<a href="https://fb.com/suraj.agrahari.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suraj.agrahari.01" height="30" width="40" /></a>
 <a href="https://instagram.com/surraj_._agrahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surraj_._agrahari" height="30" width="40" /></a>
 </p>
 
