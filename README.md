@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/surajag94005146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajag94005146" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suraj-agrahari-1622aa18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-agrahari-1622aa18a" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/suraj.agrahari.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suraj.agrahari.01" height="30" width="40" /></a>
+<a href="https://www.facebook.com/suraj.agrahari.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suraj.agrahari.01" height="30" width="40" /></a>
 <a href="https://instagram.com/surraj_._agrahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surraj_._agrahari" height="30" width="40" /></a>
 </p>
 
