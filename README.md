@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **surajagrahari330@gmail.com**
 
-- ⚡ Fun fact **My friend know mw as multi**
+- ⚡ Fun fact **My friend know me as multi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
