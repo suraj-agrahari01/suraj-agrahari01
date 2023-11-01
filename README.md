@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Agrahari</h1>
-<h3 align="center">Computer Vision Research Engineer @crimsontech|| IT manager @motor home Nepal || Advanced Electronics Author|| Electronics , communication &Information Engineer</h3>
+<h3 align="center">Computer Vision Research Engineer @crimsontech|| CTO @motor home Nepal || Advanced Electronics Author|| Electronics , communication &Information Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-agrahari01&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-agrahari01" /> </p>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/150de2_a9eb02ba122448e981e50392dc853f6a~mv2.gif">
